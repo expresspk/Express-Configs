@@ -1,5 +1,5 @@
 title=ExpressPK
-codebase=https://89.245.176.234 
+codebase=https://198.244.176.94
 initial_class=client.class
 initial_jar=http://localhost/gamepack.jar
 param=2=https://payments.jagex.com/
